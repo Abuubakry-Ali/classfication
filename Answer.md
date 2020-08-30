@@ -29,7 +29,7 @@
 
 * Which model had the best geometric mean score?
 
-> Easy Ensemble Classifier have the best geometric mean score
+> Both model have the same geometric mean score
 
 * What are the top three features?
 
